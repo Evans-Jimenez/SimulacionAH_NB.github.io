@@ -207,7 +207,7 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="2.886" atv="3.031"
-			linkedscene="scene_00-3" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_00-3" linkedscene_hoffset="0.0"  />
 		<hotspot name="spot2" style="skin_waves" ath="73.239" atv="1.458"
 			linkedscene="scene_00-1" linkedscene_lookat="-188.49,-5.29,120.0" />
 
@@ -255,7 +255,7 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="0.674" atv="6.054"
-			linkedscene="scene_r0010005" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010005" linkedscene_hoffset="0.0"  />
 
 	</scene>
 
@@ -275,9 +275,9 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="2.066" atv="10.370"
-			linkedscene="scene_r0010006" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010006" linkedscene_hoffset="0.0"  />
 		<hotspot name="spot2" style="skin_waves" ath="-179.123" atv="6.617"
-			linkedscene="scene_r0010004" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010004" linkedscene_hoffset="0.0"  />
 
 	</scene>
 
@@ -299,7 +299,7 @@
 		<hotspot name="spot3" style="skin_waves" ath="3.946" atv="7.722"
 			linkedscene="scene_r0010007"   linkedscene_lookat="97.59,-17.1,120.0"/>
 		<hotspot name="spot4" style="skin_waves" ath="-174.608" atv="11.290"
-			linkedscene="scene_r0010005" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010005" linkedscene_hoffset="0.0"  />
 
 	</scene>
 
@@ -319,7 +319,7 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="-0.563" atv="5.739"
-			linkedscene="scene_r0010013" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010013" linkedscene_hoffset="0.0"  />
 		<hotspot name="spot2" style="skin_waves" ath="98.425" atv="6.308"
 			linkedscene="scene_r0010008" linkedscene_hoffset="0.0" linkedscene_lookat="3.82,-1.31,120.0"/>
 		<hotspot name="spot3" style="skin_waves" ath="-91.111" atv="4.460"
@@ -345,7 +345,7 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="16.614" atv="8.217"
-			linkedscene="scene_r0010154" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010154" linkedscene_hoffset="0.0"  />
 		<hotspot name="spot2" style="skin_waves" ath="-179.812" atv="13.342"
 			linkedscene="scene_r0010007" linkedscene_hoffset="0.0" linkedscene_lookat="-90.42, 0, 120.0" />
 
@@ -394,7 +394,7 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="-100.646" atv="9.409"
-			linkedscene="scene_r0010154" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010154" linkedscene_hoffset="0.0"  />
 
 	</scene>
 
@@ -421,9 +421,9 @@
 		<hotspot name="spot1" style="skin_waves" ath="128.806" atv="23.042"
 			linkedscene="scene_r0010008" linkedscene_hoffset="0.0" linkedscene_lookat="-90.42, 0, 120.0"/>
 		<hotspot name="spot2" style="skin_waves" ath="85.745" atv="19.717"
-			linkedscene="scene_r0010010" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010010" linkedscene_hoffset="0.0"  />
 		<hotspot name="spot3" style="skin_waves" ath="-92.104" atv="4.978"
-			linkedscene="scene_r0010015" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010015" linkedscene_hoffset="0.0"  />
 
 		<hotspot name="info"
 			type="image"
@@ -473,9 +473,9 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="-48.150" atv="8.810"
-			linkedscene="scene_r0010012" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010012" linkedscene_hoffset="0.0"  />
 		<hotspot name="spot2" style="skin_waves" ath="85.695" atv="19.463"
-			linkedscene="scene_r0010015" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010015" linkedscene_hoffset="0.0"  />
 
 	</scene>
 
@@ -495,7 +495,7 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="28.916" atv="7.152"
-			linkedscene="scene_r0010011" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010011" linkedscene_hoffset="0.0"  />
 
 		<hotspot name="video"
 			url="plugins/videoplayer.js"
@@ -553,9 +553,9 @@
 		</image>
 
 		<hotspot name="spot3" style="skin_waves" ath="7.850" atv="15.623"
-			linkedscene="scene_r0010014" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010014" linkedscene_hoffset="0.0"  />
 		<hotspot name="spot4" style="skin_waves" ath="80.577" atv="9.277"
-			linkedscene="scene_r0010007" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010007" linkedscene_hoffset="0.0"  />
 
 	</scene>
 	<scene name="scene_R0010014" title="Ascensor" onstart=""
@@ -697,7 +697,7 @@
 		<hotspot name="spot4" style="skin_waves" ath="-88.285" atv="11.844"
 			linkedscene="scene_r0010011" linkedscene_lookat="-350.98,6.64,120.0" />
 		<hotspot name="spot1" style="skin_waves" ath="95.274" atv="13.399"
-			linkedscene="scene_r0010154" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_r0010154" linkedscene_hoffset="0.0"  />
 
 	</scene>
 
@@ -715,7 +715,7 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="3.985" atv="5.445"
-			linkedscene="scene_00-2" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_00-2" linkedscene_hoffset="0.0"  />
 		<hotspot name="spot2" style="skin_waves" ath="179.697" atv="5.969"
 			linkedscene="scene_01-3" linkedscene_lookat="-111.84,3.77,120.0" />
 
@@ -765,7 +765,7 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="2.885" atv="10.146"
-			linkedscene="scene_01-2" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_01-2" linkedscene_hoffset="0.0"  />
 		<hotspot name="spot2" style="skin_waves" ath="-153.982" atv="4.940"
 			linkedscene="scene_r0010014" linkedscene_lookat="-12.69,3.62,120.0" />
 	</scene>
@@ -804,7 +804,7 @@
 		</image>
 
 		<hotspot name="spot1" style="skin_waves" ath="12.522" atv="4.350"
-			linkedscene="scene_00-1" linkedscene_hoffset="0.0" use3dtransition="true" />
+			linkedscene="scene_00-1" linkedscene_hoffset="0.0"  />
 		<hotspot name="spot3" style="skin_waves" ath="-102.015" atv="8.653"
 			linkedscene="scene_01-2" linkedscene_lookat="103.58,12.1,120.0" />
 	</scene>
